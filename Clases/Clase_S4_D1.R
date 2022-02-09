@@ -1,5 +1,5 @@
-#Alejandro Zapata
-#09/02/2022
+# Alejandro Zapata
+# 09/02/2022
 # Sesion semana 4 sala de computo
 
 
