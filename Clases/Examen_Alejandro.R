@@ -16,7 +16,8 @@ mean(costal) <##(78.91273)
 
 sd(costal) <##(3.056806)
 
-t.test(costal, var.equal = T)
+t.test(costal, mu=20, alternative = "less")
+t.test(costal, mu=20, alternative = "greater")
 
 # Cual es el valor de p? < 2.2e-16
 # Cual es la media de los costale? < 78.91273
@@ -37,7 +38,7 @@ azufre <- c(15.8, 22.7, 26.8, 19.1, 18.5, 14.4, 8.3, 25.9, 26.4, 9.8, 22.7, 15.2
             20.8, 13.3, 18.1)
 
 t.test(azufre, var.equal = T)
-
+t.test(azufre, mu=20.6, alternative = "less")
 
 
 
@@ -56,12 +57,12 @@ t.test(azufre, var.equal = T)
 
 
 # Ejercicio 3 -------------------------------------------------------------
-url <- paste0("https://raw.githubusercontent.com/mgtagle/MCF-202_
-              Agosto_2021/main/TEMPAIRE_DIA.csv")
+URL <- "https://raw.githubusercontent.com/mgtagle/MCF-202_
+              Agosto_2021/main/TEMPAIRE_DIA.csv"
 
-
-
-
+#temp.dia <- read.csv(URL)
+mean(temp.dia$temp_media)
+t.test(temp.dia$temp_media, mu=24)
 
 
 # Ejercicio 4 -------------------------------------------------------------
@@ -76,17 +77,19 @@ Datos <- data.frame(Grupo, Ansiedad)
 
 head(Datos)
 
+library(dplyr)
 
+Fotografia <- Datos%>%
 
+  filter(Grupo=="Fotografia")
+mean(Fotografia$Ansiedad)
 
+Araña <- Datos%>%
+filter(Grupo=="Araña")
 
+mean(Araña$Ansiedad)
 
-
-
-
-
-
-
+boxplot(Datos$Ansiedad ~ Datos$Grupo, col = "")
 
 
 
