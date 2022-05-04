@@ -18,7 +18,7 @@
 
 📅Semana 4:
 
-📎 09/02/2022: Sala de computo realizacion de graficas
+📎 09/02/2022: Sala de computo realizacion de graficas.
 📎 10/02/2022: Sala de computo datos de PROFEPA.
 
 📅Semana 5:
@@ -37,21 +37,21 @@
 
 📅Semana 8:
 
-📎 09/03/2022: Repaso de lo visto
-📎 10/03/2022: Revisar los datos de madera: BD Madera
+📎 09/03/2022: Repaso de lo visto.
+📎 10/03/2022: Revisar los datos de madera: BD Madera.
 
 📅Semana 9:
 
-📎 16/03/2022: Revisar datos peso de madera 2X2X2: BD Madera
-📎 17/03/2022: Sin clase debido a la excursion 
+📎 16/03/2022: Revisar datos peso de madera 2X2X2: BD Madera.
+📎 17/03/2022: Sin clase debido a la excursion. 
 
 📅Semana 10: 
 
-📎 23/03/2022: Pruebas de T, examen practico
-📎 24/03/2022: Examen
+📎 23/03/2022: Pruebas de T, examen practico.
+📎 24/03/2022: Examen.
 
 📅Semana 11:
 
-📎 30/03/2022: Prueba de T de muestras pendientes
+📎 30/03/2022: Prueba de T de muestras pendientes.
 
 
