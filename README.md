@@ -3,7 +3,8 @@
 
 📅Semana 1:
 
-📎 19/01/2022: Clase en liena y presentacion de la clase de estudio.   
+📎 19/01/2022: Clase en liena y presentacion de la clase de estudio.
+
 📎 20/01/2022: Introduccion a R y Rstudio.
 
 📅Semana 2:
