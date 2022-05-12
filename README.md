@@ -66,15 +66,24 @@
 📅Semana 12:
 
 📎 06/04/2022: Chequeo de semillas.
+
 📎 07/04/2022: Ejemplo de los costales.
 
 📅Semana 13:
 
-📎
+📎27/04/2022: Sala de computo tema nuevo correlacion. 
+
+📎28/04/2022: Sala de computo problemas de correlacion.
 
 📅Semana 14: 
 
 📎04/05/2022: Base de datos semilla Regresion. 
+
+📅 Semana 15:
+
+📎
+
+
 
 
 
