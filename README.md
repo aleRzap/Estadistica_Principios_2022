@@ -63,4 +63,20 @@
 
 📎 30/03/2022: Prueba de T de muestras pendientes.
 
+📅Semana 12:
+
+📎 06/04/2022: Chequeo de semillas.
+📎 07/04/2022: Ejemplo de los costales.
+
+📅Semana 13:
+
+📎
+
+📅Semana 14: 
+
+📎04/05/2022: Base de datos semilla Regresion. 
+
+
+
+
 
