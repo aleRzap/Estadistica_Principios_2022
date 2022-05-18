@@ -39,7 +39,7 @@
 
 📅Semana 7:
 
-📎 02/03/2022: Sala de computo importar base de datos de semillas. 
+📎 02/03/2022: Sala de computo importar base de datos de semillas.[Clas7](Clases/Clase_S7.R) 
 
 📅Semana 8:
 
