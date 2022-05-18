@@ -77,7 +77,7 @@
 
 📅Semana 14: 
 
-📎04/05/2022: Base de datos semilla Regresion. 
+📎04/05/2022: Base de datos semilla Regresion.[Clas14](Clases/Clase_S13.R)
 
 📅 Semana 15:
 
