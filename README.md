@@ -45,11 +45,11 @@
 
 📎 09/03/2022: Repaso de lo visto.
 
-📎 10/03/2022: Revisar los datos de madera: BD Madera.[Clas8](Clases/Clase_S8.R)
+📎 10/03/2022: Revisar los datos de madera: BD [Clas8_2](Clases/S8_D2.R) Madera.[Clas8](Clases/Clase_S8.R)
 
 📅Semana 9:
 
-📎 16/03/2022: Revisar datos peso de madera 2X2X2: BD Madera.[Clas9](Clases/Clase_S9_D1.R)
+📎 16/03/2022: Revisar datos peso de madera 2X2X2: BD  Madera.[Clas9](Clases/Clase_S9_D1.R)
 
 📎 17/03/2022: Sin clase debido a la excursion. 
 
