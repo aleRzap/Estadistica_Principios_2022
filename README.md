@@ -57,7 +57,7 @@
 
 📎 23/03/2022: Pruebas de T, examen practico.[Clas10](Clases/Clase_S10.R)
 
-📎 24/03/2022: Examen.[HW_5](Tareas/Examen_Alejandro_Zapata.R)
+📎 24/03/2022: Examen.[HW_4](Tareas/HW_4.R)     [HW_5](Tareas/Examen_Alejandro_Zapata.R)
 
 📅Semana 11:
 
