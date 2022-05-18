@@ -45,7 +45,7 @@
 
 📎 09/03/2022: Repaso de lo visto.
 
-📎 10/03/2022: Revisar los datos de madera: BD Madera.
+📎 10/03/2022: Revisar los datos de madera: BD Madera.[Clas8](Clases/Clase_S8.R)
 
 📅Semana 9:
 
