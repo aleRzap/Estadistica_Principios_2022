@@ -55,7 +55,7 @@
 
 📅Semana 10: 
 
-📎 23/03/2022: Pruebas de T, examen practico.
+📎 23/03/2022: Pruebas de T, examen practico.[Clas10](Clases/Clase_S10.R)
 
 📎 24/03/2022: Examen.
 
