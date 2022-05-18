@@ -23,7 +23,7 @@
 
 📎 09/02/2022: Sala de computo realizacion de graficas.[Clas 4](Clases/Clase_S4_D1.R)
 
-📎 10/02/2022: Sala de computo datos de PROFEPA.[Clas4](Clases/Clase10-02-2022.R) [HW_2](Tareas/Tarea2.R)
+📎 10/02/2022: Sala de computo datos de PROFEPA.[Clas4](Clases/Clase10-02-2022.R) [HW_2](Tareas/Tarea2.R) [HW_3](Tareas/HW_3.R)
 
 📅Semana 5:
 
