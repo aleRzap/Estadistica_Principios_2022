@@ -81,7 +81,7 @@
 
 📅 Semana 15:
 
-📎Examen. [HW_6](Tareas/Examen_Regresion_Geiser.R)
+📎Examen. [HW_6](Tareas/Examen_Regresion_Geiser.R) [Lab3](Laboratorio/HW_4.R)
 
 📅 Semana 16:
 
