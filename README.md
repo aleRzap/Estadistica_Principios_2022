@@ -61,7 +61,7 @@
 
 📅Semana 11:
 
-📎 30/03/2022: Prueba de T de muestras pendientes.
+📎 30/03/2022: Prueba de T de muestras pendientes.[Clas11](Clases/Clase_S11.R)
 
 📅Semana 12:
 
