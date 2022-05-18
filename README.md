@@ -29,7 +29,7 @@
 
 📎 16/02/2022: Sala de computo trabajo con datos de inventario.[Clas5](Clases/Clase_S5_D1.R)
 
-📎 17/02/2022: Sala de computo Estadistica diferencial.
+📎 17/02/2022: Sala de computo Estadistica diferencial.[Clas6](Clases/Clase_S6_D2.R)
 
 📅Semana 6:
 
