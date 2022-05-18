@@ -49,7 +49,7 @@
 
 📅Semana 9:
 
-📎 16/03/2022: Revisar datos peso de madera 2X2X2: BD Madera.
+📎 16/03/2022: Revisar datos peso de madera 2X2X2: BD Madera.[Clas9](Clases/Clase_S9_D1.R)
 
 📎 17/03/2022: Sin clase debido a la excursion. 
 
