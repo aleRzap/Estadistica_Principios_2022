@@ -15,7 +15,9 @@
 
 📅Semana 3:
 
-📎 2/02/2022: Sala de computo Instalar credenciales y proyecto.[Clas 3](Clases/Clases.R)
+📎 2/02/2022: Sala de computo Instalar credenciales y proyecto.
+
+📑 [Clas 3](Clases/Clases.R)
 
 📎 3/02/2022: Sala de computo revisar lab 1 y HW_01.
 
