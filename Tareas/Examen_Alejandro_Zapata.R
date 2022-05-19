@@ -56,3 +56,4 @@ cor.test(suelo$pH, suelo$Conduc)
 
 # r- 0.7648104
 # p-value- 2.484e-10
+
