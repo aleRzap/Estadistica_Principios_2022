@@ -109,6 +109,8 @@
 
 📎27/04/2022: Sala de computo tema nuevo correlacion. 
 
+📑[Clas13](Clases/Clase 13.R)
+
 📎28/04/2022: Sala de computo problemas de correlacion.
 
 📅Semana 14: 
