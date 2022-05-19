@@ -25,14 +25,12 @@ xi <- ("4, 1, 6, 2, 4, 2, 4, 2, 4, 6, 3, 5, 3, 2, 5, 4, 0, 5, 4, 2, 4, 5, 3, 5, 
 
 germinacion <- data.frame(xi)
 
-mean(germinacion$xi)
+#mean(germinacion)
 
 #Problema 3
 #Un viverista mide la altura alcanzada por 25 plantas deProsopisde un año de edad, obteniendo lossiguientes valores:
 
-xp <- ("38, 14, 44, 11, 9, 21, 39, 28, 41, 4, 35, 24, 36, 12,20, 31, 24, 25, 10, 21, 11, 36, 37, 20, 26")
-
-prosopis <- data.frame(xp)
-
-mean(prosopis$xp)
-
+Prosopis <- c(1:25)
+altura <- c(38, 14, 44, 11, 9, 21, 39, 28, 41, 4, 35, 24, 36, 12, 20, 31, 24, 25, 10, 21, 11, 36, 37, 20, 26)
+mean(altura) 
+sd(altura, na.rm = FALSE)
