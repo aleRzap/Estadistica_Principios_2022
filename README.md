@@ -23,6 +23,8 @@
 
 📑 [HW_1](Tareas/HW_1.R) 
 
+📑[Lab1](Laboratorio/Lab1.R)
+
 📅Semana 4:
 
 📎 09/02/2022: Sala de computo realizacion de graficas.
