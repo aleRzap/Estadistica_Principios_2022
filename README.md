@@ -21,7 +21,7 @@
 
 📎 3/02/2022: Sala de computo revisar lab 1 y HW_01.
 
-📑 [HW_1](Tareas/HW_1.R)
+📑 [HW_1](Tareas/HW_1.R) 
 
 📅Semana 4:
 
@@ -102,6 +102,8 @@
 📎 06/04/2022: Chequeo de semillas.
 
 📎 07/04/2022: Ejemplo de los costales.
+
+📑[Clas12](Clases/Clase12.R)
 
 📅Semana 13:
 
