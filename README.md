@@ -21,6 +21,8 @@
 
 📎 3/02/2022: Sala de computo revisar lab 1 y HW_01.
 
+📑 [HW_1](Tareas/HW_1.R)
+
 📅Semana 4:
 
 📎 09/02/2022: Sala de computo realizacion de graficas.
