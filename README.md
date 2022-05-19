@@ -23,7 +23,7 @@
 
 📑 [HW_1](Tareas/HW_1.R) 
 
-📑[Lab1](Laboratorio/Lab1.R)
+
 
 📅Semana 4:
 
