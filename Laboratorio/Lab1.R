@@ -1,5 +1,7 @@
-#LABORATORIO 1
-#Kenny Rincon
+#LAB 1
+
+# Alejandro Zapata Ramirez
+
 # Parte I Primer contacto con la consola de R -------------------------------------
 
 
