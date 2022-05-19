@@ -39,9 +39,13 @@
 
 📅Semana 5:
 
-📎 16/02/2022: Sala de computo trabajo con datos de inventario.[Clas5](Clases/Clase_S5_D1.R)
+📎 16/02/2022: Sala de computo trabajo con datos de inventario.
 
-📎 17/02/2022: Sala de computo Estadistica diferencial.[Clas6](Clases/Clase_S6_D2.R)
+📑[Clas5](Clases/Clase_S5_D1.R)
+
+📎 17/02/2022: Sala de computo Estadistica diferencial.
+
+📑[Clas6](Clases/Clase_S6_D2.R)
 
 📅Semana 6:
 
@@ -51,29 +55,45 @@
 
 📅Semana 7:
 
-📎 02/03/2022: Sala de computo importar base de datos de semillas.[Clas7](Clases/Clase_S7.R) 
+📎 02/03/2022: Sala de computo importar base de datos de semillas.
+
+📑[Clas7](Clases/Clase_S7.R) 
 
 📅Semana 8:
 
 📎 09/03/2022: Repaso de lo visto.
 
-📎 10/03/2022: Revisar los datos de madera: BD [Clas8_2](Clases/S8_D2.R) Madera.[Clas8](Clases/Clase_S8.R)
+📎 10/03/2022: Revisar los datos de madera: BD Madera
+
+📑[Clas8_2](Clases/S8_D2.R) 
+
+📑[Clas8](Clases/Clase_S8.R)
 
 📅Semana 9:
 
-📎 16/03/2022: Revisar datos peso de madera 2X2X2: BD  Madera.[Clas9](Clases/Clase_S9_D1.R)
+📎 16/03/2022: Revisar datos peso de madera 2X2X2: BD  Madera.
+
+📑[Clas9](Clases/Clase_S9_D1.R)
 
 📎 17/03/2022: Sin clase debido a la excursion. 
 
 📅Semana 10: 
 
-📎 23/03/2022: Pruebas de T, examen practico.[Clas10](Clases/Clase_S10.R)
+📎 23/03/2022: Pruebas de T, examen practico.
 
-📎 24/03/2022: Examen.[HW_4](Tareas/HW_4.R)     [HW_5](Tareas/Examen_Alejandro_Zapata.R)
+📑[Clas10](Clases/Clase_S10.R)
+
+📎 24/03/2022: Examen.
+
+📑[HW_4](Tareas/HW_4.R)     
+
+📑[HW_5](Tareas/Examen_Alejandro_Zapata.R)
 
 📅Semana 11:
 
-📎 30/03/2022: Prueba de T de muestras pendientes.[Clas11](Clases/Clase_S11.R)
+📎 30/03/2022: Prueba de T de muestras pendientes.
+
+📑[Clas11](Clases/Clase_S11.R)
 
 📅Semana 12:
 
@@ -89,11 +109,17 @@
 
 📅Semana 14: 
 
-📎04/05/2022: Base de datos semilla Regresion.[Clas14](Clases/Clase_S13.R)
+📎04/05/2022: Base de datos semilla Regresion.
+
+📑[Clas14](Clases/Clase_S13.R)
 
 📅 Semana 15:
 
-📎Examen. [HW_6](Tareas/Examen_Regresion_Geiser.R) [Lab3](Laboratorio/HW_4.R)
+📎Examen. 
+
+📑[HW_6](Tareas/Examen_Regresion_Geiser.R) 
+
+📑[Lab3](Laboratorio/HW_4.R)
 
 📅 Semana 16:
 
