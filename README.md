@@ -143,6 +143,8 @@
 
 📑[Lab3](Laboratorio/HW_4.R)
 
+🔖 [Lab3PDF](Laboratorio/HW_4.pdf)
+
 📅 Semana 16:
 
 📎Preparacion del P.I.A
