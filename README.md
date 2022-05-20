@@ -49,6 +49,8 @@
 
 📑[Lab2](Laboratorio/Lab-2.R)
 
+🔖[Lab2PDF](Laboratorio/Lab-2.pdf)
+
 📅Semana 5:
 
 📎 16/02/2022: Sala de computo trabajo con datos de inventario.
