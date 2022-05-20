@@ -37,7 +37,7 @@
 
 📎 10/02/2022: Sala de computo datos de PROFEPA.
 
-📑[Clas4](Clases/Clase10-02-2022.R) 
+📑[Clas4_2](Clases/Clase10-02-2022.R) 
 
 📑[Clas4PDF](Clases/Clase_S4_D1.pdf)
 
