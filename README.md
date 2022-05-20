@@ -39,6 +39,8 @@
 
 📑[Clas4](Clases/Clase10-02-2022.R) 
 
+📑[Clas4PDF](Clases/Clase_S4_D1.pdf)
+
 📑[HW_2](Tareas/Tarea2.R) 
 
 🔖[HW2PDF](Tareas/HW_2.pdf)
