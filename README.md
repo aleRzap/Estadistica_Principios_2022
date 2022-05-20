@@ -23,6 +23,8 @@
 
 📑 [HW_1](Tareas/HW_1.R) 
 
+🔖[HW1PDF](Tareas/HW_1.pdf)
+
 📑 [Lab1](Laboratorio/Lab1.R)
 
 📅Semana 4:
@@ -37,7 +39,11 @@
 
 📑[HW_2](Tareas/Tarea2.R) 
 
+🔖[HW2PDF](Tareas/HW_2.pdf)
+
 📑[HW_3](Tareas/HW_3.R)
+
+🔖[HW3PDF](Tareas/HW_3.pdf)
 
 📑[Lab2](Laboratorio/Lab-2.R)
 
@@ -89,7 +95,9 @@
 
 📎 24/03/2022: Examen.
 
-📑[HW_4](Tareas/HW_4.R)     
+📑[HW_4](Tareas/HW_4.R)
+
+🔖[HW4PDF](Tareas/HW_4.pdf)
 
 📑[HW_5](Tareas/Examen_Alejandro_Zapata.R)
 
@@ -126,6 +134,8 @@
 📎Examen. 
 
 📑[HW_6](Tareas/Examen_Regresion_Geiser.R) 
+
+🔖[HW6PDF](Tareas/Examen_Regresion_Geiser.pdf)
 
 📑[Lab3](Laboratorio/HW_4.R)
 
