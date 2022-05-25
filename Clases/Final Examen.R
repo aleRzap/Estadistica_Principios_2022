@@ -1,7 +1,7 @@
 # Examen Final
 # Alejandro Zapata
 
-Madera2X2X5 <- read.csv("Clases/Madera_2X2X5.csv", header = T)
+Madera2X2X5 <- read.csv("Madera_2X2X5.csv", header = T)
 
 library(dplyr)
 Pino <- Madera2X2X5 %>%
